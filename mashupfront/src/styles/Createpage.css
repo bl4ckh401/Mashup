@@ -1,0 +1,21 @@
+.create_page{
+    display: flex;
+    flex-direction: column;
+}
+.create_radios{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.create_card{
+    display: flex;
+    flex-direction: column;
+}
+.radio_buttongroup{
+    margin: 10px;
+    color: black;
+}
+.radio_button{
+    color: black;
+}
